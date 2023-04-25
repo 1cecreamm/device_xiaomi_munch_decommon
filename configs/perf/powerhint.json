@@ -477,6 +477,24 @@
       "Value": "1"
     },
     {
+      "PowerHint": "INTERACTIVE",
+      "Node": "CPULittleClusterGovernor",
+      "Duration": 0,
+      "Value": "schedutil"
+    },
+    {
+      "PowerHint": "INTERACTIVE",
+      "Node": "CPUBigClusterGovernor",
+      "Duration": 0,
+      "Value": "schedutil"
+    },
+    {
+      "PowerHint": "INTERACTIVE",
+      "Node": "CPUBigPlusClusterGovernor",
+      "Duration": 0,
+      "Value": "schedutil"
+    },
+    {
       "PowerHint": "INTERACTION",
       "Node": "SchedBoost",
       "Duration": 0,
