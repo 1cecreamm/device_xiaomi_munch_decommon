@@ -14,6 +14,9 @@ $(call inherit-product, vendor/derp/config/common_full_phone.mk)
 # Inherit from munch device
 $(call inherit-product, device/xiaomi/munch/device.mk)
 
+# Quick Tap Feature
+TARGET_SUPPORTS_QUICK_TAP := true
+
 PRODUCT_NAME := derp_munch
 PRODUCT_DEVICE := munch
 PRODUCT_MANUFACTURER := Xiaomi
