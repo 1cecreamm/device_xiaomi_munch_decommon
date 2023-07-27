@@ -165,6 +165,9 @@ persist.bluetooth.sbc_hd_higher_bitrate=1
 ro.soc.manufacturer=QTI
 ro.soc.model=SM8250
 
+# GFX
+ro.config.avoid_gfx_accel=true
+
 # Crypto
 ro.crypto.allow_encrypt_override=true
 ro.crypto.volume.filenames_mode=aes-256-cts
