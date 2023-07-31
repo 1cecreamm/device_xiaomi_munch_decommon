@@ -747,6 +747,16 @@ vendor/lib/libgpudataproducer.so
 vendor/lib/libgsl.so
 vendor/lib/libllvm-glnext.so
 vendor/lib/libllvm-qcom.so
+vendor/lib/0640_libadreno_utils.so
+vendor/lib/0640_libgsl.so
+vendor/lib/0640_libllvm-glnext.so
+vendor/lib/libdmabufheap.so
+vendor/lib/libllvm-qgl.so
+vendor/lib64/0640_libadreno_utils.so
+vendor/lib64/0640_libgsl.so
+vendor/lib64/0640_libllvm-glnext.so
+vendor/lib64/libdmabufheap.so
+vendor/lib64/libllvm-qgl.so
 vendor/lib64/egl/eglSubDriverAndroid.so
 vendor/lib64/egl/libEGL_adreno.so
 vendor/lib64/egl/libGLESv1_CM_adreno.so
